@@ -1,0 +1,12 @@
+{
+  "name": "store-ivanova",
+  "version": "1.0.0",
+  "description": "The official Store for Ivanova Platform and Grosmen Pro",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
